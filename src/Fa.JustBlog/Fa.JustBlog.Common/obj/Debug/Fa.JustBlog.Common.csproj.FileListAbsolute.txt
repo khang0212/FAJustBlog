@@ -1,0 +1,12 @@
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\Fa.JustBlog.Common\bin\Debug\Fa.JustBlog.Common.dll.config
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\Fa.JustBlog.Common\bin\Debug\Fa.JustBlog.Common.dll
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\Fa.JustBlog.Common\bin\Debug\Fa.JustBlog.Common.pdb
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\Fa.JustBlog.Common\bin\Debug\EntityFramework.dll
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\Fa.JustBlog.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\Fa.JustBlog.Common\bin\Debug\EntityFramework.xml
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\Fa.JustBlog.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\Fa.JustBlog.Common\obj\Debug\Fa.JustBlog.Common.csprojAssemblyReference.cache
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\Fa.JustBlog.Common\obj\Debug\Fa.JustBlog.Common.csproj.CoreCompileInputs.cache
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\Fa.JustBlog.Common\obj\Debug\Fa.JustBlog.Common.csproj.CopyComplete
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\Fa.JustBlog.Common\obj\Debug\Fa.JustBlog.Common.dll
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\Fa.JustBlog.Common\obj\Debug\Fa.JustBlog.Common.pdb

@@ -1,0 +1,6 @@
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Services.dll
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Services.pdb
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.csprojAssemblyReference.cache
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.csproj.CoreCompileInputs.cache
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.dll
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.pdb

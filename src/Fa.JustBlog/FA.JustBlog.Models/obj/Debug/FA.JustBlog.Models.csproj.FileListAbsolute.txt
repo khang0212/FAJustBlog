@@ -1,0 +1,6 @@
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.Models\bin\Debug\FA.JustBlog.Models.dll
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.Models\bin\Debug\FA.JustBlog.Models.pdb
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.Models\obj\Debug\FA.JustBlog.Models.csprojAssemblyReference.cache
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.Models\obj\Debug\FA.JustBlog.Models.csproj.CoreCompileInputs.cache
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.Models\obj\Debug\FA.JustBlog.Models.dll
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.Models\obj\Debug\FA.JustBlog.Models.pdb

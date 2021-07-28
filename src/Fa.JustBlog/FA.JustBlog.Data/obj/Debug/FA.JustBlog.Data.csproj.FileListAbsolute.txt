@@ -1,0 +1,2 @@
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.Data\obj\Debug\FA.JustBlog.Data.csprojAssemblyReference.cache
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.Data\obj\Debug\FA.JustBlog.Data.csproj.CoreCompileInputs.cache
