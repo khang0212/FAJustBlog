@@ -1,14 +1,12 @@
-﻿using System;
+﻿using FA.JustBlog.Models.Based_Entity;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace FA.JustBlog.Models.Common
 {
-    class Post
+    public class Post : Base
     {
 
         [Required(ErrorMessage = "The {0} is required")]

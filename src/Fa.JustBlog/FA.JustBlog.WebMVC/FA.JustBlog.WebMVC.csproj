@@ -8,7 +8,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{686419F5-C1F1-4C4F-8CCC-70EF5D4F8B80}</ProjectGuid>
+    <ProjectGuid>{C1040852-3410-466B-A174-621546F683C9}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -180,6 +180,24 @@
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Fa.JustBlog.Common\Fa.JustBlog.Common.csproj">
+      <Project>{d286655f-b618-4587-b36c-ddb986e6b943}</Project>
+      <Name>Fa.JustBlog.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FA.JustBlog.Data\FA.JustBlog.Data.csproj">
+      <Project>{dde9906c-b04e-4da0-9a0a-18f45d504a17}</Project>
+      <Name>FA.JustBlog.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FA.JustBlog.Models\FA.JustBlog.Models.csproj">
+      <Project>{2656a5f8-8593-4fd8-a2c9-94f262740fee}</Project>
+      <Name>FA.JustBlog.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FA.JustBlog.Services\FA.JustBlog.Services.csproj">
+      <Project>{59290a96-e073-4643-bfaa-9dc77a179ea7}</Project>
+      <Name>FA.JustBlog.Services</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
@@ -196,7 +214,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>58109</DevelopmentServerPort>
+          <DevelopmentServerPort>61488</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>https://localhost:44307/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>

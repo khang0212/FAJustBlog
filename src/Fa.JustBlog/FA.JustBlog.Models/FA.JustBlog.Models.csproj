@@ -42,13 +42,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Based Entity\Base.cs" />
-    <Compile Include="Based Entity\IBase.cs" />
-    <Compile Include="Class1.cs" />
+    <Compile Include="Based_Entity\Base.cs" />
+    <Compile Include="Based_Entity\IBase.cs" />
     <Compile Include="Common\Category.cs" />
     <Compile Include="Common\Post.cs" />
     <Compile Include="Common\Tag.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Fa.JustBlog.Common\Fa.JustBlog.Common.csproj">
+      <Project>{d286655f-b618-4587-b36c-ddb986e6b943}</Project>
+      <Name>Fa.JustBlog.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FA.JustBlog.Services\FA.JustBlog.Services.csproj">
+      <Project>{59290a96-e073-4643-bfaa-9dc77a179ea7}</Project>
+      <Name>FA.JustBlog.Services</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

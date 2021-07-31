@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FA.JustBlog.Models.Based_Entity;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace FA.JustBlog.Models.Common
 {
-    class Category
+    public class Category : Base
     {
 
         public Guid Id { get; set; }

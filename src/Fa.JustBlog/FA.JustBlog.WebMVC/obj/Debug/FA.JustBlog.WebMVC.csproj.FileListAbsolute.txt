@@ -1,3 +1,5 @@
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\obj\Debug\FA.JustBlog.WebMVC.csprojAssemblyReference.cache
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\obj\Debug\FA.JustBlog.WebMVC.csproj.CoreCompileInputs.cache
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\FA.JustBlog.WebMVC.dll.config
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\FA.JustBlog.WebMVC.dll
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\FA.JustBlog.WebMVC.pdb
@@ -51,6 +53,10 @@ C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\roslyn\VBCSCompiler.exe
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\Antlr3.Runtime.dll
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\Fa.JustBlog.Common.dll
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\FA.JustBlog.Data.dll
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\FA.JustBlog.Models.dll
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\FA.JustBlog.Services.dll
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\Newtonsoft.Json.dll
@@ -62,6 +68,13 @@ C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\System.Web.WebPages.dll
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\System.Web.WebPages.Razor.dll
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\WebGrease.dll
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\EntityFramework.dll
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\Fa.JustBlog.Common.pdb
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\Fa.JustBlog.Common.dll.config
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\FA.JustBlog.Data.pdb
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\FA.JustBlog.Data.dll.config
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\FA.JustBlog.Models.pdb
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\FA.JustBlog.Services.pdb
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\System.Web.Helpers.xml
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\System.Web.Mvc.xml
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\System.Web.Optimization.xml
@@ -72,8 +85,7 @@ C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\Newtonsoft.Json.xml
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\Antlr3.Runtime.pdb
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\obj\Debug\FA.JustBlog.WebMVC.csprojAssemblyReference.cache
-C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\obj\Debug\FA.JustBlog.WebMVC.csproj.CoreCompileInputs.cache
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\EntityFramework.xml
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\obj\Debug\FA.JustBlog.WebMVC.csproj.CopyComplete
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\obj\Debug\FA.JustBlog.WebMVC.dll
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\obj\Debug\FA.JustBlog.WebMVC.pdb
