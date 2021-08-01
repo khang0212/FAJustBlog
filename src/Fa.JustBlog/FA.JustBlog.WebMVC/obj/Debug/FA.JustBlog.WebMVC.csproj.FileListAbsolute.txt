@@ -89,3 +89,5 @@ C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\obj\Debug\FA.JustBlog.WebMVC.csproj.CopyComplete
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\obj\Debug\FA.JustBlog.WebMVC.dll
 C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\obj\Debug\FA.JustBlog.WebMVC.pdb
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\TruongTuanKhang\Documents\FAJustBlog\src\Fa.JustBlog\FA.JustBlog.WebMVC\bin\EntityFramework.SqlServer.xml

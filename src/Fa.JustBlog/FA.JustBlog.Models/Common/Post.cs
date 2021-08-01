@@ -6,9 +6,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace FA.JustBlog.Models.Common
 {
+    [Table("Posts", Schema = "common")]
     public class Post : Base
     {
-
         [Required(ErrorMessage = "The {0} is required")]
         [StringLength(255, ErrorMessage = "The {0} must between {2} and {1} characters", MinimumLength = 3)]
         public string Title { get; set; }
@@ -28,6 +28,7 @@ namespace FA.JustBlog.Models.Common
         public string UrlSlug { get; set; }
 
         public bool Published { get; set; }
+        public int ViewCount { get; set; }
 
         public DateTime PublishedDate { get; set; }
 
@@ -37,8 +38,5 @@ namespace FA.JustBlog.Models.Common
         public virtual Category Category { get; set; }
 
         public virtual ICollection<Tag> Tags { get; set; }
-
-
-
     }
 }

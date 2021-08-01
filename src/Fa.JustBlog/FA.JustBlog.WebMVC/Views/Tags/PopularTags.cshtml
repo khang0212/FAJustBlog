@@ -1,0 +1,10 @@
+﻿
+@model IEnumerable<FA.JustBlog.Models.Common.Tag>
+@{
+    ViewBag.Title = "Home Page";
+}
+@foreach (var item in Model)
+{
+    <div>@item.Name</div>
+}
+
